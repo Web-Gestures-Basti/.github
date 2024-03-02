@@ -7,7 +7,7 @@
 - 👩‍💻 Useful resources - Web gestures open source asset..
 - 🍿 Fun facts - Our Group member Eats Valuable PR in their Breakfast 😂.
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--  for more go on : [Web Gestures Basti]((https://harraiyatimes.com/webgestures/))
+-  for more go on : [[Web Gestures Basti]((https://harraiyatimes.com/webgestures/))](https://harraiyatimes.com/webgestures/)
 
 **Houmble Request:**
 
